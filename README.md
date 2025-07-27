@@ -43,7 +43,7 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leela0o5&layout=compact&theme=react&hide_border=true" />
 <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=Leela0o5&limit=5&theme=react&combine_all_yearly_contributions=true&hide_border=true" />
 
-### Made with a whole lot of ❤️ and thanks for visiting!
+### Made with a whole lot of ❤️.
 
 
 
