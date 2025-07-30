@@ -18,9 +18,6 @@
 <a href="https://x.com/@LEELA55555">
   <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://pinterest.com/Leela_o05">
-  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white" />
-</a>
 <a href="mailto:leela592023@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
