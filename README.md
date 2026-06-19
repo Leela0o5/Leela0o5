@@ -25,7 +25,7 @@ I like building things from scratch — shipping small, fast, understandable cod
 ## Links
 
 - X (Twitter): https://x.com/@Leela679698
-- Portfolio: https://my-portfolio-nine-lyart-40.vercel.app/ (under dev)
+- Portfolio: https://my-portfolio-nine-lyart-40.vercel.app/ 
 - LinkedIn: https://www.linkedin.com/in/leela-m-336334301
 
 > “It’s never too late ngl”
